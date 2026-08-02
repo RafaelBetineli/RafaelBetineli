@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RafaelBetineli&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RafaelBetineli&langs_count=5&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=RafaelBetineli&repo=RafaelBetineli%2FStageflow_IA&description_lines_count=3&theme=chartreuse-dark)](https://github.com/RafaelBetineli/Stageflow_IA)
 
 <!--
 **RafaelBetineli/RafaelBetineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
