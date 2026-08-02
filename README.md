@@ -22,6 +22,8 @@ How to reach me:
 </div>
 
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <!--          
 **RafaelBetineli/RafaelBetineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
