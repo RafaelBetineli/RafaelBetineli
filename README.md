@@ -2,7 +2,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RafaelBetineli&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=RafaelBetineli&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark) 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RafaelBetineli&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RafaelBetineli&langs_count=5&theme=chartreuse-dark)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=RafaelBetineli&repo=RafaelBetineli%2FStageflow_IA&description_lines_count=3&theme=chartreuse-dark)](https://github.com/RafaelBetineli/Stageflow_IA)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RafaelBetineli&langs_count=5&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RafaelBetineli&langs_count=5&theme=chartreuse-dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=RafaelBetineli&repo=RafaelBetineli%2FConfig_Guardian_EA_FC26&theme=chartreuse-dark)](https://github.com/RafaelBetineli/Config_Guardian_EA_FC26) 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
